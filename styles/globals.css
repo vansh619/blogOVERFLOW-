@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* //to-do this to tailwind css */
+body{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
