@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom'
 import { title } from "process";
 
 const PostCard:FunctionComponent<{
-    post: Ipost
+    post: Iposts
 }> = ({
     post :{
     name,

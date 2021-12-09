@@ -1,10 +1,10 @@
 import React, {FunctionComponent} from "react" ;
-import {Ipost} from "../types";
+import {Iposts} from "../types";
 import { Link } from 'react-router-dom'
 import { title } from "process";
 
 const PostCard:FunctionComponent<{
-    post: Ipost
+    post: Iposts
 }> = ({
     post :{
     name,
