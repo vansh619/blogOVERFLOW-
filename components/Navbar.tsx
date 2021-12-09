@@ -46,7 +46,7 @@ const Navbar = () => {
                active={active}
                setActive={setActive}
                name='HOME'
-               route='/'
+               route='/home'
             />
             </div>
             <div className="hover:text-white">
