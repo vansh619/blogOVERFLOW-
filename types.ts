@@ -1,7 +1,7 @@
 
 export interface Itestimony {
     name:string,
-    fullname:string,
+    info:string,
     slug:string
 }
 export interface Ipost {
